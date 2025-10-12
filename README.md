@@ -52,7 +52,7 @@
 - **テスト自動化ツール**：MagicPod（AI機能も含む）
 - **バグ管理ツール**：JIRA、Backlog
 - **ドキュメンテーション**：Notion、Confluence
-- **生成AIツール：NotionAI、Copilot、Gemini
+- **生成AIツール**：NotionAI、Copilot、Gemini
 
 # 🏅 資格・実績一覧
 
